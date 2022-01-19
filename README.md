@@ -1,4 +1,4 @@
 # Réalisé par :
-  #     AAKLA Hamaza
+  #     AAKLA Hamza
   #     ADDI Kamal
   #     ELOUTMADI Abderrahim
